@@ -12,8 +12,6 @@ console.log(input);
 const h2 = document.getElementById('result');
 console.log(h2);
 
-
-
 // ==================Functions ======================
 
 let result = 0;
@@ -30,9 +28,6 @@ const subtract = () => {
  result -= selectingInput;
  h2.innerHTML = result;
 }
-
-
-
 
 // ==============Event Listeners =================
 

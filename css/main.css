@@ -1,7 +1,13 @@
-body {
-  background-color: black;
+#plus{
+  display: block;
+  width: 110px;
+  height: 50px;
+  border: black;
+  background-color: grey;
+  border-radius: 10px;
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: center;
+  align-items: center;
 }
-
-.result {
-  font-size: 3rem;
-}
+ /*  css doesnt work, sigh */
